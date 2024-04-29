@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: blue;
+}
+
 p{
     color: red;
     font-family: 'Poppins', sans-serif;
